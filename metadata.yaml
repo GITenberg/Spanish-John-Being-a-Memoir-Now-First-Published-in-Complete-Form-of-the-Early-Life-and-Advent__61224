@@ -1,0 +1,46 @@
+_repo: Spanish-John-Being-a-Memoir-Now-First-Published-in-Complete-Form-of-the-Early-Life-and-Advent__61224
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Myrbach-Rheinfeld, Felician, Freiherr von
+    aliases:
+    - Myrbach, F. de (Felicien)
+    - Myrbach, Baron (Felicien)
+    - Myrbach, Felicien de
+    - Myrbach von Rheinfeld, Felician, Freiherr
+    birthdate: 1853
+    deathdate: 1940
+    gutenberg_agent_id: '36574'
+    url: http://www.gutenberg.org/2009/agents/36574
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Felician_Myrbach
+    - https://en.wikipedia.org/wiki/Felician_Myrbach
+creator:
+  author:
+    agent_name: McLennan, William
+    birthdate: 1856
+    deathdate: 1904
+    gutenberg_agent_id: '36572'
+    url: http://www.gutenberg.org/2009/agents/36572
+description: ''
+gutenberg_issued: '2020-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61224'
+  lccn: '07020432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Fiction'
+- !lcsh 'Scotland -- Fiction'
+- !lcsh 'Jacobite Rebellion, 1745-1746 -- Fiction'
+- !lcsh 'M''Donell, John, 1728-1810 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: "Spanish John\r\nBeing a Memoir, Now First Published in Complete Form, of the\
+  \ Early Life and Adventures of Colonel John McDonell, Known as \"Spanish John,\"\
+  \ When a Lieutenant in the Company of St. James of the Regiment Irlandia, in the\
+  \ Service of the King of Spain Operating in Italy"
+url: http://www.gutenberg.org/ebooks/61224
